@@ -12,3 +12,7 @@ This analysis is intended to answer a series of business key questions and deriv
 
 The data is provided by Careerfoundry [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip). 
 
+# Visualization
+
+Tableau visualization can be seen [here](https://public.tableau.com/app/profile/nuki.susanti/viz/RockbusterStealthDataAnalysis_16618096649900/RockbusterAnalysis?publish=yes).
+
